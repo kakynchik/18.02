@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="taskeight.cpp">
+      <Filter>eight</Filter>
+    </ClCompile>
+    <ClCompile Include="tasknine.cpp">
+      <Filter>nine</Filter>
+    </ClCompile>
+    <ClCompile Include="rozvidka.cpp">
+      <Filter>rozvidka</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="eight">
+      <UniqueIdentifier>{6abffad9-414c-4701-bef4-be6ce97406e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="nine">
+      <UniqueIdentifier>{13c53ef0-8dc9-44c6-b838-5b8babc873f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="rozvidka">
+      <UniqueIdentifier>{0ea43afd-d88d-4a8c-8791-e6dfcc89a5c7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
